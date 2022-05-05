@@ -1,0 +1,7 @@
+<div style="width:100%;text-align:center;">
+    <div style="display: inline-flex;padding:20px;height:200px;" class="mat-elevation-z2" [style.width]="width" [style.margin]="margin"
+         *ngFor="let tile of tiles" [style.background]="tile.color">
+        <div class="tile_title">{{tile.title}}</div>
+        <div class="tile_text" [innerHTML]="tile.text"></div>
+    </div>
+</div>
