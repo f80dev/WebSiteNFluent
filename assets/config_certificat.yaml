@@ -1,0 +1,76 @@
+quality: 98
+version: 1
+message: ""
+id: 186ef1382f6
+height: 800
+width: 800
+data:
+  description: ""
+  files: ""
+  operation: ""
+  properties: ""
+  symbol: token__idx__
+  title: MonNFT
+  tags: ""
+  sequence:
+    - Texte ici
+  creators: ""
+attributes: {}
+layers:
+  - params: {}
+    name: fond
+    elements:
+      - image: https://nfluent.io/assets/paper1.jpg
+        name: image1
+      - image: https://nfluent.io/assets/paper2.jpg
+        name: image2
+      - image: https://nfluent.io/assets/paper3.jpg
+        name: image3
+      - image: https://nfluent.io/assets/paper4.jpg
+        name: image4
+      - image: https://nfluent.io/assets/paper5.jpg
+        name: image5
+    text: ""
+    unique: false
+    width: 800
+    height: 800
+    indexed: true
+    position: 0
+    translation: 0,0
+    scale: 1,1
+    margin: 0,0
+  - params: {}
+    name: text_logo
+    elements:
+      - image: "https://nfluent.io/assets/certificat_authenticite_black.svg"
+        type: image/svg
+      - image: "https://nfluent.io/assets/certificat_authenticite_white.svg"
+        type: image/svg
+    text: ""
+    unique: false
+    width: 800
+    height: 800
+    indexed: true
+    position: 1
+    translation: 0,0
+    scale: 1,1
+    margin: 0,0
+limit: 5
+help: ""
+max_items: 11
+label: localConfig
+platform:
+  label: ""
+  value: ""
+seed: 0
+text:
+  color: "#FFFFFF"
+  fontsize: 12
+  position_text:
+    x: 10
+    y: 10
+  text_to_add: Texte ici
+  font:
+    name: Corbel
+    file: corbel.ttf
+location: localConfig.yaml

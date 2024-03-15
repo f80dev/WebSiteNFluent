@@ -1,0 +1,11 @@
+#Fichier de configuration des applications NFLUENT
+
+com.nfluent.nftv:
+  name: NFTV
+  description: Application de partage de NFT sur grand ecran
+  url: http://xgallery.nfluent.io/
+
+com.nfluent.faucet:
+  name: Nfluent Faucet
+  description: Obtenir des NFluCoin
+  url: ""

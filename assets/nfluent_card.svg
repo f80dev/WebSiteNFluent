@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="600"
+   viewBox="0 0 158.75 158.75"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="nfluent_card.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.255"
+     inkscape:cx="270.91633"
+     inkscape:cy="300"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter1722"
+       x="-0.3805802"
+       y="-0.39211299"
+       width="1.8277618"
+       height="1.8855216">
+      <feFlood
+         flood-opacity="0.945098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1712" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1714" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="14.9701"
+         result="blur"
+         id="feGaussianBlur1716" />
+      <feOffset
+         dx="6.28743"
+         dy="9.28144"
+         result="offset"
+         id="feOffset1718" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite2"
+         id="feComposite1720" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter6933"
+       x="-0.025404563"
+       y="-0.15438286"
+       width="1.0640407"
+       height="1.3087657">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6923" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6925" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.8"
+         result="blur"
+         id="feGaussianBlur6927" />
+      <feOffset
+         dx="1"
+         dy="0"
+         result="offset"
+         id="feOffset6929" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6931" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       id="filter6963"
+       x="-0.058720676"
+       y="-0.36642069"
+       width="1.148025"
+       height="1.7328414">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6953" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6955" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.8"
+         result="blur"
+         id="feGaussianBlur6957" />
+      <feOffset
+         dx="1"
+         dy="0"
+         result="offset"
+         id="feOffset6959" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6961" />
+    </filter>
+  </defs>
+  <path
+     id="rect873"
+     style="opacity:1;fill:#ececec;stroke-width:2.1"
+     d="M 0 0 L 0 600 L 600 600 L 600 0 L 0 0 z M 300 26 A 199.99999 199.99999 0 0 1 500 226 A 199.99999 199.99999 0 0 1 300 426 A 199.99999 199.99999 0 0 1 100 226 A 199.99999 199.99999 0 0 1 300 26 z "
+     transform="scale(0.26458333)"
+     inkscape:export-filename="C:\Users\hhoar\IdeaProjects\NFluentWebSite\src\assets\rect873.png"
+     inkscape:export-xdpi="120"
+     inkscape:export-ydpi="120" />
+  <g
+     id="layer1"
+     transform="translate(0,7.4083337)">
+    <ellipse
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke-width:5.06756;filter:url(#filter1722)"
+       id="ellipse1049"
+       cx="6.7592697"
+       cy="84.425446"
+       rx="47.201931"
+       ry="45.813633"
+       transform="matrix(0.25854556,0,0,0.2545399,36.03651,104.36919)" />
+    <g
+       id="g1110"
+       transform="matrix(0.29477859,0,0,0.2922752,16.105386,104.03393)"
+       style="stroke-width:3.40688">
+      <ellipse
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.42893"
+         id="path5285"
+         cx="73.109955"
+         cy="75.412231"
+         rx="47.201931"
+         ry="45.813633" />
+      <g
+         id="g5253"
+         transform="matrix(0.83831991,0,0,0.83831991,-59.839766,35.233788)"
+         style="stroke-width:4.06392">
+        <ellipse
+           style="opacity:1;fill:#5b00b9;fill-opacity:0.298039;stroke-width:5.28314"
+           id="path858"
+           cx="158.20105"
+           cy="47.783363"
+           rx="56.605583"
+           ry="54.642384" />
+        <ellipse
+           style="opacity:1;fill:#5a00b7;fill-opacity:0.580392;stroke-width:5.2831"
+           id="ellipse2432"
+           cx="157.81412"
+           cy="49.458351"
+           rx="35.284687"
+           ry="34.060932" />
+        <ellipse
+           style="opacity:1;fill:#5900b7;fill-opacity:1;stroke-width:5.2831"
+           id="ellipse3606"
+           cx="157.75182"
+           cy="48.613968"
+           rx="13.621853"
+           ry="13.149418" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.7567px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264584;filter:url(#filter6933)"
+       x="57.060543"
+       y="128.35736"
+       id="text2376"><tspan
+         id="tspan2374"
+         style="stroke-width:0.264584"
+         x="57.060543"
+         y="128.35736">NFLUENT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.61259px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter6963)"
+       x="98.886681"
+       y="135.79587"
+       id="text5224"><tspan
+         id="tspan5222"
+         style="stroke-width:0.264583"
+         x="98.886681"
+         y="135.79587">NFT Agency</tspan></text>
+  </g>
+</svg>

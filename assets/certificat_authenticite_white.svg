@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="1500"
+   viewBox="0 0 396.87501 396.87501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="certificat authenticite_white.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.23716796"
+     inkscape:cx="912.85518"
+     inkscape:cy="1258.6017"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="200.36654,415.01844"
+       orientation="1,0"
+       id="guide881" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="61.11993"
+       y="137.14716"
+       width="487.46872"
+       height="101.36964"
+       id="rect17795" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1722"
+       x="-0.3805802"
+       y="-0.39211299"
+       width="1.8277618"
+       height="1.8855216">
+      <feFlood
+         flood-opacity="0.945098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1712" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1714" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="14.9701"
+         result="blur"
+         id="feGaussianBlur1716" />
+      <feOffset
+         dx="6.28743"
+         dy="9.28144"
+         result="offset"
+         id="feOffset1718" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite2"
+         id="feComposite1720" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3528px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:262.892;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.51564;stroke-miterlimit:4;stroke-dasharray:none"
+       x="10.963223"
+       y="160.63841"
+       id="text3026"
+       transform="matrix(0.94906162,0,0,0.85461602,57.978191,241.20592)"><tspan
+         x="10.963223"
+         y="160.63841"
+         id="tspan3897">NFLUENT Certificat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3528px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:262.892;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1.35676;stroke-miterlimit:4;stroke-dasharray:none"
+       x="10.963223"
+       y="160.63841"
+       id="text4395"
+       transform="matrix(0.94906162,0,0,1.0664962,57.300988,183.00823)"><tspan
+         x="10.963223"
+         y="160.63841"
+         id="tspan3899">__title__</tspan></text>
+    <path
+       d="M 4.9130621,326.9016 H 70.290946 v 60.45634 H 4.9130621 Z"
+       fill="none"
+       id="path1265"
+       style="stroke-width:0.061616" />
+    <path
+       d="m 37.602004,329.42061 -24.516706,10.07606 v 15.11409 c 0,13.98053 10.460461,27.05421 24.516706,30.22817 14.056245,-3.17396 24.516707,-16.24764 24.516707,-30.22817 v -15.11409 z m -5.448157,40.30423 -10.896314,-10.07605 3.840951,-3.55181 7.055363,6.49905 17.951677,-16.6003 3.840951,3.577 z"
+       id="path1267"
+       style="fill:#f9f9f9;stroke-width:0.264584" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3528px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:262.892;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:2.9719;stroke-miterlimit:4;stroke-dasharray:none"
+       x="10.963223"
+       y="160.63841"
+       id="text838"
+       transform="matrix(0.43327434,0,0,0.48688666,313.85826,307.41801)"><tspan
+         x="10.963223"
+         y="160.63841"
+         id="tspan3901">__dtMining__</tspan></text>
+  </g>
+</svg>

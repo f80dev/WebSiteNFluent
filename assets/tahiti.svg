@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="tahiti.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.67081226"
+     inkscape:cx="1548.1232"
+     inkscape:cy="573.18571"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true"
+     inkscape:snap-grids="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-others="true"
+     inkscape:object-nodes="false"
+     inkscape:snap-nodes="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     borderlayer="false"
+     showborder="true">
+    <sodipodi:guide
+       position="1650.2382,923.47334"
+       orientation="1,0"
+       id="guide1787" />
+    <sodipodi:guide
+       position="720.0226,535.88354"
+       orientation="0,-1"
+       id="guide1789" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="1174.2733"
+       y="445.88655"
+       width="367.3557"
+       height="172.34622"
+       id="rect4856" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3549"
+       x="-0.0067520458"
+       y="-0.0095093222"
+       width="1.0135041"
+       height="1.0190186">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.17922926"
+         id="feGaussianBlur3551" />
+    </filter>
+    <filter
+       inkscape:label="Inset"
+       inkscape:menu="Shadows and Glows"
+       inkscape:menu-tooltip="Shadowy outer bevel"
+       style="color-interpolation-filters:sRGB;"
+       id="filter380"
+       x="-0.0088306205"
+       y="-0.091738625"
+       width="1.0176612"
+       height="1.1834772">
+      <feMorphology
+         result="result1"
+         in="SourceAlpha"
+         operator="dilate"
+         radius="3.6"
+         id="feMorphology368" />
+      <feGaussianBlur
+         stdDeviation="3.6"
+         in="result1"
+         result="result0"
+         id="feGaussianBlur370" />
+      <feDiffuseLighting
+         surfaceScale="-5"
+         id="feDiffuseLighting374">
+        <feDistantLight
+           elevation="45"
+           azimuth="225"
+           id="feDistantLight372" />
+      </feDiffuseLighting>
+      <feComposite
+         in2="result0"
+         operator="in"
+         result="result91"
+         id="feComposite376" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite378" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1936"
+       x="-0.006682017"
+       y="-0.006682017"
+       width="1.013364"
+       height="1.013364">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5452164"
+         id="feGaussianBlur1938" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="1919.7146"
+       height="1080.3455"
+       preserveAspectRatio="none"
+       style="stroke-width:0.43428;image-rendering:optimizeQuality"
+       xlink:href="https://nfluent.io/assets/tahiti.jpg"
+       id="image106"
+       x="0.31397271"
+       y="-0.018759724" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;line-height:1.25;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;opacity:0.929338;fill:#f9f9f9;fill-opacity:1;stroke:#ffffff;stroke-width:0.421926;filter:url(#filter3549)"
+       x="1247.45"
+       y="409.97836"
+       id="text4053"
+       transform="matrix(0.62737607,0,0,0.6267972,868.76137,455.72423)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.421926"
+         x="1247.45"
+         y="409.97836"
+         id="tspan4051">{{description}}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.421926"
+         x="1247.45"
+         y="454.22174"
+         id="tspan594">{{collection}}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.421926"
+         x="1247.45"
+         y="498.46512"
+         id="tspan598" /></text>
+    <image
+       width="555"
+       height="555"
+       style="opacity:0.8;mix-blend-mode:normal;stroke-width:2.46734;filter:url(#filter1936)"
+       preserveAspectRatio="none"
+       xlink:href="%7B%7Bvisual%7D%7D"
+       id="NFT"
+       x="522.84332"
+       y="280.56717"
+       transform="matrix(0.51663565,-0.01732531,0.00382197,0.43420251,240.92979,430.37136)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.7371px;line-height:1.25;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;opacity:0.95836;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.76500001;stroke-miterlimit:4;stroke-dasharray:none"
+       x="1650.3049"
+       y="651.57007"
+       id="text1793"
+       transform="scale(0.99868711,1.0013146)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.7371px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#ffffff;stroke:#ffffff;stroke-width:1.76500001;stroke-miterlimit:4;stroke-dasharray:none"
+         x="1650.3049"
+         y="651.57007"
+         id="tspan1791">{{title}}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;line-height:1.25;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;opacity:0.800631;fill:#f9f9f9;fill-opacity:1;stroke:#ffffff;stroke-width:0.678691;filter:url(#filter3549)"
+       x="1182.6425"
+       y="409.97836"
+       id="text4376"
+       transform="matrix(0.38955924,0,0,0.39013082,1191.0059,656.01219)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.678691"
+         x="1182.6425"
+         y="409.97836"
+         id="tspan4370">{{prop1}}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.678691"
+         x="1182.6425"
+         y="454.22174"
+         id="tspan4372">{{prop2}}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.678691"
+         x="1182.6425"
+         y="498.46512"
+         id="tspan4910">{{prop3}}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.678691"
+         x="1182.6425"
+         y="542.7085"
+         id="tspan4912">{{prop4}}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.678691"
+         x="1182.6425"
+         y="586.95184"
+         id="tspan4914">{{prop5}}</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.3947px;font-family:Papyrus;-inkscape-font-specification:'Papyrus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#f9f9f9;stroke:#ffffff;stroke-width:0.678691"
+         x="1182.6425"
+         y="631.19525"
+         id="tspan4374" /></text>
+  </g>
+</svg>

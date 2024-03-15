@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   inkscape:export-filename="C:\Users\hhoar\IdeaProjects\NFluentWebSite\src\assets\certificat4.webp"
+   inkscape:export-xdpi="101.6"
+   inkscape:export-ydpi="101.6"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="template_certificat.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="483.68186"
+     inkscape:cy="536.29997"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="98.947355,98.023643"
+       orientation="1,0"
+       id="guide6240" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6048"
+       x="-0.0031693173"
+       y="-0.033927482"
+       width="1.0063386"
+       height="1.067855">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.15253237"
+         id="feGaussianBlur6050" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6052"
+       x="-0.012587053"
+       y="-0.079660439"
+       width="1.0251741"
+       height="1.1593209">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.15327538"
+         id="feGaussianBlur6054" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="199.93985"
+       height="199.9173"
+       preserveAspectRatio="none"
+       style="stroke-width:1.02339;image-rendering:optimizeQuality"
+       xlink:href="paper2.jpg"
+       id="image5167"
+       x="0.049641728"
+       y="0.068394616" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;opacity:0.865942;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter6048)"
+       x="53.235703"
+       y="184.44226"
+       id="text2145"
+       inkscape:export-filename="C:\Users\hhoar\IdeaProjects\NFluentWebSite\src\assets\certificat2.webp"
+       inkscape:export-xdpi="101.6"
+       inkscape:export-ydpi="101.6"><tspan
+         sodipodi:role="line"
+         id="tspan2143"
+         style="stroke-width:0.264583"
+         x="53.235703"
+         y="184.44226">Certificat de propriété</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.80558px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter6052)"
+       x="139.65065"
+       y="192.93678"
+       id="text3153"><tspan
+         sodipodi:role="line"
+         id="tspan3151"
+         style="stroke-width:0.264583"
+         x="139.65065"
+         y="192.93678">by NFLUENT</tspan></text>
+    <image
+       width="20.875376"
+       height="20.875376"
+       preserveAspectRatio="none"
+       xlink:href="icon_nfluent_128.png"
+       id="image3769"
+       x="173.59576"
+       y="174.51079"
+       style="stroke-width:0.633105"
+       inkscape:export-filename="C:\Users\hhoar\IdeaProjects\NFluentWebSite\src\assets\certificat1.webp"
+       inkscape:export-xdpi="10.24"
+       inkscape:export-ydpi="10.24" />
+  </g>
+</svg>

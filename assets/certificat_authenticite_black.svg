@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1500"
+   height="1500"
+   viewBox="0 0 396.87501 396.87501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="certificat_authenticite_black.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.47433592"
+     inkscape:cx="908.63876"
+     inkscape:cy="709.41286"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="201.92266,268.58161"
+       orientation="1,0"
+       id="guide881" />
+    <sodipodi:guide
+       position="-180.72636,289.77791"
+       orientation="1,0"
+       id="guide847" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="61.11993"
+       y="137.14716"
+       width="487.46872"
+       height="101.36964"
+       id="rect17795" />
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:label="Drop Shadow"
+       id="filter1722"
+       x="-0.3805802"
+       y="-0.39211299"
+       width="1.8277618"
+       height="1.8855216">
+      <feFlood
+         flood-opacity="0.945098"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1712" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1714" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="14.9701"
+         result="blur"
+         id="feGaussianBlur1716" />
+      <feOffset
+         dx="6.28743"
+         dy="9.28144"
+         result="offset"
+         id="feOffset1718" />
+      <feComposite
+         in="offset"
+         in2="SourceGraphic"
+         operator="out"
+         result="composite2"
+         id="feComposite1720" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter10512"
+       x="-0.019700159"
+       y="-0.088685865"
+       width="1.0394003"
+       height="1.1773717">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.45457809"
+         id="feGaussianBlur10514" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11758"
+       x="-0.017518879"
+       y="-0.040724584"
+       width="1.0350378"
+       height="1.0814492">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.71669189"
+         id="feGaussianBlur11760" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11762"
+       x="-0.034501612"
+       y="-0.028228592"
+       width="1.0690032"
+       height="1.0564572">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.25876208"
+         id="feGaussianBlur11764" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter11766"
+       x="-0.0074156323"
+       y="-0.051268328"
+       width="1.0148313"
+       height="1.1025367">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.42250331"
+         id="feGaussianBlur11768" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.3528px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;inline-size:262.892;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.51564;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter11758);opacity:0.87079408"
+       x="10.963223"
+       y="160.63841"
+       id="text3026"
+       transform="matrix(0.94906162,0,0,0.85461602,60.209381,215.54724)"><tspan
+         x="10.963223"
+         y="160.63841"
+         id="tspan5973">NFLUENT
+</tspan><tspan
+         x="10.963223"
+         y="187.32941"
+         id="tspan5975">Certificat</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3528px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:262.892;opacity:0.774574;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.98049;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter10512)"
+       x="48.415932"
+       y="160.63841"
+       id="text4395"
+       transform="matrix(1.3132708,0,0,1.4757718,138.58021,-100.3226)"><tspan
+         x="48.415932"
+         y="160.63841"
+         id="tspan5977">__title__</tspan></text>
+    <path
+       d="M 0,0 H 24 V 24 H 0 Z"
+       fill="none"
+       id="path1265"
+       style="stroke-width:0.0235217;filter:url(#filter11762)"
+       transform="matrix(2.7240785,0,0,2.5190143,4.9130621,326.9016)" />
+    <path
+       d="M 12,1 3,5 v 6 c 0,5.55 3.84,10.74 9,12 5.16,-1.26 9,-6.45 9,-12 V 5 Z M 10,17 6,13 7.41,11.59 10,14.17 16.59,7.58 18,9 Z"
+       id="path1267"
+       style="fill:#000080;stroke-width:0.101004;filter:url(#filter11762);opacity:0.77388964"
+       transform="matrix(2.7240785,0,0,2.5190143,4.9130621,326.9016)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.3528px;line-height:1.25;font-family:'Ink Free';-inkscape-font-specification:'Ink Free, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;white-space:pre;inline-size:262.892;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.32131;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#filter11766)"
+       x="147.70247"
+       y="160.63841"
+       id="text838"
+       transform="matrix(0.55105258,0,0,0.62748076,303.73735,284.37498)"><tspan
+         x="147.70247"
+         y="160.63841"
+         id="tspan5981"><tspan
+           style="stroke-width:1.81314"
+           id="tspan5979">__dtMining__</tspan></tspan></text>
+  </g>
+</svg>
